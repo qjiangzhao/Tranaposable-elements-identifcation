@@ -1,0 +1,59 @@
+==================================================
+file name: bgh_dh14_v4.fa           
+sequences:           318
+total length:  124489486 bp  (123802382 bp excl N/X-runs)
+GC level:         43.72 %
+bases masked:   93856199 bp ( 75.39 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+Retroelements        88496     81082383 bp   65.13 %
+   SINEs:             8546      4028256 bp    3.24 %
+   Penelope              0            0 bp    0.00 %
+   LINEs:            25896     29472397 bp   23.67 %
+    CRE/SLACS            0            0 bp    0.00 %
+     L2/CR1/Rex          0            0 bp    0.00 %
+     R1/LOA/Jockey       0            0 bp    0.00 %
+     R2/R4/NeSL          0            0 bp    0.00 %
+     RTE/Bov-B           0            0 bp    0.00 %
+     L1/CIN4             0            0 bp    0.00 %
+   LTR elements:     54054     47581730 bp   38.22 %
+     BEL/Pao             0            0 bp    0.00 %
+     Ty1/Copia       28133     23621016 bp   18.97 %
+     Gypsy/DIRS1     23509     23330255 bp   18.74 %
+       Retroviral        0            0 bp    0.00 %
+
+DNA transposons      19275     10208381 bp    8.20 %
+   hobo-Activator        0            0 bp    0.00 %
+   Tc1-IS630-Pogo      972       488035 bp    0.39 %
+   En-Spm                0            0 bp    0.00 %
+   MuDR-IS905            0            0 bp    0.00 %
+   PiggyBac              0            0 bp    0.00 %
+   Tourist/Harbinger     0            0 bp    0.00 %
+   Other (Mirage,        0            0 bp    0.00 %
+    P-element, Transib)
+
+Rolling-circles          0            0 bp    0.00 %
+
+Unclassified:         4765      2013553 bp    1.62 %
+
+Total interspersed repeats:    93304317 bp   74.95 %
+
+
+Small RNA:               0            0 bp    0.00 %
+
+Satellites:            136        42344 bp    0.03 %
+Simple repeats:       4123       257297 bp    0.21 %
+Low complexity:        942       252241 bp    0.20 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+RepeatMasker version 4.1.2-p1 , sensitive mode
+                                   
+run with rmblastn version 2.9.0+
+The query was compared to classified sequences in ".../B_hordei_TE_cons_man_v2_for_repeatmasker_with_two_SINE_elements.fasta"
+FamDB: 
